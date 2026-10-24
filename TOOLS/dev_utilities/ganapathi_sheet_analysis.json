@@ -1,0 +1,3555 @@
+{
+  "April": {
+    "max_row": 25,
+    "max_col": 4,
+    "merged_cells": [
+      "A1:B1"
+    ],
+    "rows": [
+      {
+        "row": 1,
+        "cells": [
+          {
+            "col": 1,
+            "val": "                                      Ganapathi Chit – April Month",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 16.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 3,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Name",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "Amount Need to Pay",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": "paid status ",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 4,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Sarath Babu",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "₹ 20,000",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": "cash paid -ATMAKUR",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 5,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Anil",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "₹ 20,000",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": "self paid ",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 6,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Jyothi",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "₹ 18,000",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": "cash paid  -ATMAKUR",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 7,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Girl",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "₹ 18,000",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 8,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Sumanth",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "₹ 18,000",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": " UPI paid ",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 9,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Ramanaiah",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "₹ 18,000",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": " UPI paid ",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 10,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Harish",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "₹ 18,000",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": " UPI paid ",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 11,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Pallavi",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "₹ 18,000",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": " UPI paid ",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 12,
+        "cells": [
+          {
+            "col": 1,
+            "val": "P. Hari",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "₹ 18,000",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": "cash paid -NELLORE",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 13,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Anjineyulu",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "₹ 18,000",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": "cash paid -NELLORE",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 14,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Vamsi Madhu",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "₹ 18,000",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": " UPI paid ",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 15,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Uma Suri",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "₹ 18,000",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": " UPI paid ",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 18,
+        "cells": [
+          {
+            "col": 1,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "                                                 Amount counting ",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 20,
+        "cells": [
+          {
+            "col": 1,
+            "val": "PHONE PE ",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "18000 * 4 -upi ",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": "72000",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 21,
+        "cells": [
+          {
+            "col": 1,
+            "val": "PHONE PE -harish & ramanaiah",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "18000* 2",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": "36000",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 22,
+        "cells": [
+          {
+            "col": 1,
+            "val": "cash sarath and jyothi ",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "2 ppl 20000, 18,000 ",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": "38000",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 23,
+        "cells": [
+          {
+            "col": 1,
+            "val": "chit owner ",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "sending money ",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": "26000",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 24,
+        "cells": [
+          {
+            "col": 1,
+            "val": "giri",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "pending ",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": "18000",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 25,
+        "cells": [
+          {
+            "col": 1,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": "190000",
+            "number_format": "#,##0",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      }
+    ]
+  },
+  "MAY": {
+    "max_row": 34,
+    "max_col": 6,
+    "merged_cells": [
+      "A1:B1"
+    ],
+    "rows": [
+      {
+        "row": 1,
+        "cells": [
+          {
+            "col": 1,
+            "val": "                                      Ganapathi Chit – MAY Month",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 16.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 5,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 6,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 3,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Name",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "Amount Need to Pay",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": "paid status ",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 5,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 6,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 4,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Sarath Babu",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "₹ 20,000",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 5,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 6,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 5,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Anil",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "₹ 20,000",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 5,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 6,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 6,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Jyothi",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "₹ 18,000",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 5,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 6,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 7,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Girl",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "17500",
+            "number_format": "\"₹\"\\ #,##0;[Red]\"₹\"\\ \\-#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 5,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 6,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 8,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Sumanth",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "17500",
+            "number_format": "\"₹\"\\ #,##0;[Red]\"₹\"\\ \\-#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": " UPI paid ",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 5,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 6,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 9,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Ramanaiah",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "17500",
+            "number_format": "\"₹\"\\ #,##0;[Red]\"₹\"\\ \\-#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 5,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 6,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 10,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Harish",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "17500",
+            "number_format": "\"₹\"\\ #,##0;[Red]\"₹\"\\ \\-#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 5,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 6,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 11,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Pallavi",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "17500",
+            "number_format": "\"₹\"\\ #,##0;[Red]\"₹\"\\ \\-#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": " UPI paid ",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 5,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 6,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 12,
+        "cells": [
+          {
+            "col": 1,
+            "val": "P. Hari",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "17500",
+            "number_format": "\"₹\"\\ #,##0;[Red]\"₹\"\\ \\-#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 5,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 6,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 13,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Anjineyulu",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "17500",
+            "number_format": "\"₹\"\\ #,##0;[Red]\"₹\"\\ \\-#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": "cash paid -NELLORE",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 5,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 6,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 14,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Vamsi Madhu",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "17500",
+            "number_format": "\"₹\"\\ #,##0;[Red]\"₹\"\\ \\-#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 5,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 6,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 15,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Uma Suri",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "17500",
+            "number_format": "\"₹\"\\ #,##0;[Red]\"₹\"\\ \\-#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": " UPI paid ",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 5,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 6,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 20,
+        "cells": [
+          {
+            "col": 1,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "                                                 Amount counting -jyothi ",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 5,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 6,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 21,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Total -  MAY Chit - 20,000  remove                                                                                                                                                                                                                                                                                       1,90,000 counting",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 5,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 6,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 22,
+        "cells": [
+          {
+            "col": 1,
+            "val": "PHONE PE -Sumanth, pallavi ,suresh ,vamsi madhu ",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "17500 *4",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": "70000",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 5,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 6,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 23,
+        "cells": [
+          {
+            "col": 1,
+            "val": "PHONE PE -harish & ramanaiah",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "17500 *2",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": "35000",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 5,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 6,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 24,
+        "cells": [
+          {
+            "col": 1,
+            "val": "CASH   -- anil and sarath ",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "20000 * 2",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": "40000",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 5,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 6,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 25,
+        "cells": [
+          {
+            "col": 1,
+            "val": "giri",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "pending ",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": "17500",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 5,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 6,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 26,
+        "cells": [
+          {
+            "col": 1,
+            "val": "CASH   -- Chit owner",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "SENT - PHONE PE ",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": "27500",
+            "number_format": "#,##0",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 5,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 6,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 27,
+        "cells": [
+          {
+            "col": 1,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": "190000",
+            "number_format": "#,##0",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 5,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 6,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 30,
+        "cells": [
+          {
+            "col": 1,
+            "val": null,
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 4,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 5,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 6,
+            "val": "S",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      }
+    ]
+  },
+  "JUNE": {
+    "max_row": 33,
+    "max_col": 3,
+    "merged_cells": [
+      "A4:B4"
+    ],
+    "rows": [
+      {
+        "row": 4,
+        "cells": [
+          {
+            "col": 1,
+            "val": "                       Ganapathi Chit – JUNE Month",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 16.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 6,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Name",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "Amount Need to Pay",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 7,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Sarath Babu",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "₹ 20,000",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 8,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Anil",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "₹ 20,000",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 9,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Jyothi",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "₹ 20,000",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 10,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Girl",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "₹ 20,000",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 11,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Sumanth",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "17500",
+            "number_format": "\"₹\"\\ #,##0;[Red]\"₹\"\\ \\-#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 12,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Ramanaiah",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "17500",
+            "number_format": "\"₹\"\\ #,##0;[Red]\"₹\"\\ \\-#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 13,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Harish",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "17500",
+            "number_format": "\"₹\"\\ #,##0;[Red]\"₹\"\\ \\-#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 14,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Pallavi",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "17500",
+            "number_format": "\"₹\"\\ #,##0;[Red]\"₹\"\\ \\-#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 15,
+        "cells": [
+          {
+            "col": 1,
+            "val": "P. Hari",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "17500",
+            "number_format": "\"₹\"\\ #,##0;[Red]\"₹\"\\ \\-#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 16,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Anjineyulu",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "17500",
+            "number_format": "\"₹\"\\ #,##0;[Red]\"₹\"\\ \\-#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 17,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Vamsi Madhu",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "17500",
+            "number_format": "\"₹\"\\ #,##0;[Red]\"₹\"\\ \\-#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 18,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Uma Suri",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "17500",
+            "number_format": "\"₹\"\\ #,##0;[Red]\"₹\"\\ \\-#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 27,
+        "cells": [
+          {
+            "col": 1,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "                                                 Amount counting - GIRI",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 28,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Total -  JUNE Chit  2.10 LAKH - 20,000  remove(SELF PAID)     - 1,90,000 counting",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 29,
+        "cells": [
+          {
+            "col": 1,
+            "val": "PHONE PE -Sumanth, pallavi ,UMA SAREES,vamsi madhu ",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "17000 *4",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": "68000",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 30,
+        "cells": [
+          {
+            "col": 1,
+            "val": "PHONE PE - OWNER ",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "62000",
+            "number_format": "#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": "62000",
+            "number_format": "#,##0",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 31,
+        "cells": [
+          {
+            "col": 1,
+            "val": "CASH   -- anil and saratH JYOTHI ",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "pending 20000 *  3",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": "60000",
+            "number_format": "#,##0",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 32,
+        "cells": [
+          {
+            "col": 1,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": "190000",
+            "number_format": "#,##0",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      }
+    ]
+  },
+  "JULY": {
+    "max_row": 31,
+    "max_col": 3,
+    "merged_cells": [
+      "A1:B1"
+    ],
+    "rows": [
+      {
+        "row": 1,
+        "cells": [
+          {
+            "col": 1,
+            "val": "                       Ganapathi Chit – JULY Month 2026",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 16.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 3,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Name",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "Amount Need to Pay",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 4,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Sarath Babu",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "₹ 20,000",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 5,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Anil",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "₹ 20,000",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 6,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Jyothi",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "₹ 20,000",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 7,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Girl",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "₹ 20,000",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 8,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Sumanth",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "₹ 20,000",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 9,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Ramanaiah",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "16500",
+            "number_format": "\"₹\"\\ #,##0;[Red]\"₹\"\\ \\-#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 10,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Harish",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "16500",
+            "number_format": "\"₹\"\\ #,##0;[Red]\"₹\"\\ \\-#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 11,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Pallavi",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "16500",
+            "number_format": "\"₹\"\\ #,##0;[Red]\"₹\"\\ \\-#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 12,
+        "cells": [
+          {
+            "col": 1,
+            "val": "P. Hari",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "16500",
+            "number_format": "\"₹\"\\ #,##0;[Red]\"₹\"\\ \\-#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 13,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Anjineyulu",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "16500",
+            "number_format": "\"₹\"\\ #,##0;[Red]\"₹\"\\ \\-#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 14,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Vamsi Madhu",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "16500",
+            "number_format": "\"₹\"\\ #,##0;[Red]\"₹\"\\ \\-#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 15,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Uma Suri",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "16500",
+            "number_format": "\"₹\"\\ #,##0;[Red]\"₹\"\\ \\-#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 22,
+        "cells": [
+          {
+            "col": 1,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "   Amount counting - ANJINEYULU",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 23,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Total -  JULY 2,13,000 REMOVE 16,500  BALNACE 1,96,500",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": null,
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 24,
+        "cells": [
+          {
+            "col": 1,
+            "val": "PHONE PE - pallavi ,UMA SAREES,vamsi madhu ",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "16500 * 3",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": "49500",
+            "number_format": "#,##0",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 25,
+        "cells": [
+          {
+            "col": 1,
+            "val": "PHONE PE -  HARISH 2 CHIT AMOUNT PAID",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "33000",
+            "number_format": "#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": "33000",
+            "number_format": "#,##0",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 26,
+        "cells": [
+          {
+            "col": 1,
+            "val": "PHONE PE - ANIL ,JYOTHI ANJINEALU ",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": " 20000 *  3",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": "60000",
+            "number_format": "#,##0",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 27,
+        "cells": [
+          {
+            "col": 1,
+            "val": "CASH  BALBACE CHIT OWNER",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "14000",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": "14000",
+            "number_format": "#,##0",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 28,
+        "cells": [
+          {
+            "col": 1,
+            "val": null,
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "pending 20000 *  2",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": "40000",
+            "number_format": "#,##0",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 31,
+        "cells": [
+          {
+            "col": 1,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 3,
+            "val": "196500",
+            "number_format": "#,##0",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      }
+    ]
+  },
+  "AUG": {
+    "max_row": 15,
+    "max_col": 2,
+    "merged_cells": [
+      "A1:B1"
+    ],
+    "rows": [
+      {
+        "row": 1,
+        "cells": [
+          {
+            "col": 1,
+            "val": "                       Ganapathi Chit – AUG Month 2026",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 16.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": null,
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 3,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Name",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "Amount Need to Pay",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 4,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Sarath Babu",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "₹ 20,000",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 5,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Anil",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "₹ 20,000",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 6,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Jyothi",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "₹ 20,000",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 7,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Girl",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "₹ 20,000",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 8,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Anjineyulu",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "₹ 20,000",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 9,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Ramanaiah",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "₹ 20,000",
+            "number_format": "General",
+            "font_bold": true,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 10,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Harish",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "16000",
+            "number_format": "\"₹\"\\ #,##0;[Red]\"₹\"\\ \\-#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 11,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Pallavi",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "16000",
+            "number_format": "\"₹\"\\ #,##0;[Red]\"₹\"\\ \\-#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 12,
+        "cells": [
+          {
+            "col": 1,
+            "val": "P. Hari",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "16000",
+            "number_format": "\"₹\"\\ #,##0;[Red]\"₹\"\\ \\-#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 13,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Sumanth",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "16000",
+            "number_format": "\"₹\"\\ #,##0;[Red]\"₹\"\\ \\-#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 14,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Vamsi Madhu",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "16000",
+            "number_format": "\"₹\"\\ #,##0;[Red]\"₹\"\\ \\-#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      },
+      {
+        "row": 15,
+        "cells": [
+          {
+            "col": 1,
+            "val": "Uma Suri",
+            "number_format": "General",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          },
+          {
+            "col": 2,
+            "val": "16000",
+            "number_format": "\"₹\"\\ #,##0;[Red]\"₹\"\\ \\-#,##0",
+            "font_bold": false,
+            "font_size": 11.0,
+            "font_name": "Calibri"
+          }
+        ]
+      }
+    ]
+  }
+}

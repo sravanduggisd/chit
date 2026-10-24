@@ -1,0 +1,16 @@
+# Python runtime artifacts
+__pycache__/
+*.py[cod]
+
+# Local environments
+.venv/
+venv/
+
+# Local server sync data and its generated snapshots can contain payment data
+MAIN/chit_sync_data.json
+MAIN/backups/chit_backup_*.json
+
+# OS/editor noise
+Thumbs.db
+.DS_Store
+.vscode/

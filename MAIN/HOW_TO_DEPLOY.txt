@@ -1,0 +1,24 @@
+CHIT TRACKER: DEPLOYMENT AND LOCAL USE
+
+WEB DEPLOYMENT
+1. Publish the complete MAIN folder to a static web host.
+2. Keep index.html, manifest.json, sw.js, icons, and assets together.
+3. Open the published URL on your phone and use Add to Home Screen if desired.
+
+LOCAL PC USE
+Open index.html in a browser, or use the root Open_Chit_Tracker.bat launcher.
+
+LOCAL WI-FI USE
+1. Connect the PC and phone to the same Wi-Fi network.
+2. Run Run_Server_For_Mobile.bat and leave its window open.
+3. On the phone, open http://<PC-IP>:8080.
+
+DATA AND BACKUPS
+Payment data normally lives in each browser's local storage. Use the app's
+Export Backup and Restore Backup actions to move that data. The optional
+backup_manager.py script only copies chit_sync_data.json created by the local
+server; it does not automatically back up browser storage.
+
+Firebase cloud sync requires a reachable database with appropriate access.
+The configured database currently returns HTTP 401 to anonymous test requests.
+Verify Firebase access and sync in the app before relying on it.
